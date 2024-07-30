@@ -10,3 +10,10 @@ roadmap de data analyst con documentacion y ejemplos, siguiendo el plan de [road
 - [ ] Introduccion: Conceptos claves de Data
 
 - [ ] 
+
+```
+|── Readme
+|── Teoria
+    |── 1- Introduccion
+        |── intro.md
+```
