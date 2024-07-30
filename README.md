@@ -7,6 +7,6 @@ roadmap de data analyst con documentacion y ejemplos, siguiendo el plan de [road
 
 - [X] Introduccion: Tipos de **Data Analyst**
 
-- [] Introduccion: Conceptos claves de Data
+- [ ] Introduccion: Conceptos claves de Data
 
-- [] 
+- [ ] 
