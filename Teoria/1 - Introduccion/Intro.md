@@ -9,3 +9,6 @@ Se encargan de organizar y seleccionar datos relevantes para solucionar diferent
 Tipos de **Data Analytics**
 ---------------------------
 
+Dentro del analisis de datos, se encuentran 4 tipos principales:
+
+- Descriptive \_Analitycs\_ (Analisis Descriptivo):
