@@ -11,4 +11,8 @@ Tipos de **Data Analytics**
 
 Dentro del analisis de datos, se encuentran 4 tipos principales:
 
-- Descriptive \_Analitycs\_ (Analisis Descriptivo):
+- <ins>Descriptive Analitycs</ins> (Analisis Descriptivo): El _analisis descriptivo_ busca responder a la pregunta **¿Que Paso?**, buscando proporcionar informacion Importante del pasado, por ejemplo, en una agencia de coches, cual fue la marca y modelo mas vendidos. Hoy en dia las empresas cuentas con grandes bancos de datos de acciones pasadas, con los cuales el analizarlos, puede brindar informacion para poder realizar analisis descriptivos o predictivos.
+
+- <ins>Diagnostic analytics</ins> (Analisis de Diagnostico):
+- <ins>Predictive Analytics</ins> (Analisis Predictivo):
+- <ins>Prescriptive Analytics</ins> (Analisis Prescriptivo):
