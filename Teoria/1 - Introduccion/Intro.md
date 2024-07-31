@@ -23,3 +23,7 @@ Dentro del analisis de datos, se encuentran 4 tipos principales:
 - <ins>Predictive Analytics</ins> (Analisis Predictivo): El _analisis predictivo_ nos orienta al momento de averiguar **que puede pasar**. Se basa en los hallazgos del Analisis descriptivo y el Analisis de diagnostico para asi poder detectar _tendencias_, _agrupaciones_ y _exepciones_, para poder lograr predicciones de tendencias futuras, siempre hay que tener en cuenta que dichas predicciones son mas bien aproccimaciones, y su nivel de certeza varia mucho segun la calidad de los datos brindados, y la estabilidad de lo que se quiera estimar, por lo tanto se optimizar continuamente y brindarle un tratamiento cuidadoso.
 
 - <ins>Prescriptive Analytics</ins> (Analisis Prescriptivo): El _analisis prescriptivo_ busca prescribir que accion tomar para poder evitar un problema futuro o bien para poder aprobechar una tendencia prometedora.
+
+Conceptos clave de Data
+-----------------------
+
